@@ -1,0 +1,28 @@
+header h1 {
+    font-weight: bold;
+    font-size: 26px;
+    color: yellowgreen;
+    margin: 0;
+    display: inline;
+}
+
+.page-title {
+    color: yellowgreen;
+    text-align: center;
+    padding: 35px 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+}
+
+.secondary-content {
+    width: 80%;
+    margin: auto;
+    color: black;
+    text-align: center;
+}
+
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+}
