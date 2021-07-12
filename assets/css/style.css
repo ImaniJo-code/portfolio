@@ -120,6 +120,10 @@ header nav ul li a {
     background-image: url("../images/robot-gladiators.png");
 }
 
+.ten-speed {
+    background-image: url("../images/10-speed.png");
+}
+
 .contact-info {
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
